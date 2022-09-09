@@ -7,7 +7,7 @@
 <center>
   <img src="./github/pizza.svg" width="60"></img>
 
-  <p>Aplicação de delivery para pizzarias, feita em Angular!</p>
+  <p>Aplicação de delivery para Lanches, feita em Java Swing!</p>
 
   Acessar: <a href=" https://pizzadelivery.vercel.app"> https://pizzadelivery.vercel.app</a>
 
