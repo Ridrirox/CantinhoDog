@@ -1,0 +1,2 @@
+br.com.dialog.DiamondAbstractButtonStateIconDemo
+br.com.dialog.DiamondAbstractButtonStateIcon
