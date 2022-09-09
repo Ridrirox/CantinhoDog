@@ -9,7 +9,7 @@
 
   <p>Aplicação de delivery para Lanches, feita em Java Swing!</p>
 
-  Acessar: <a href=" https://pizzadelivery.vercel.app"> https://pizzadelivery.vercel.app</a>
+  Acessar: <a href=" https://pizzadelivery.vercel.app"> https://lanches-seven.vercel.app/</a>
 
 
 ## :hammer: **Tecnologias Usadas** :wrench:
@@ -27,7 +27,7 @@
 
   <img src="./github/desktop.png" width="350"></img>
 
-  Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 11.0.3.
+  Este projeto foi gerado com [NetBeans]
 
 
 </center>
