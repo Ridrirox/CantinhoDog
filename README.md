@@ -1,6 +1,6 @@
 <h1>
   <center>
-    Pizza<span style="color: #ff033c">Delivery</span>
+    Lanches<span style="color: #ff033c">Delivery</span>
   </center>
 </h1>
 
